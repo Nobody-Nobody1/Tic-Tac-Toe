@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Tic Tac Toe",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/tictactoe.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
