@@ -1,1 +1,4 @@
-look at dist file and download exe file and open in explorer to run.
+- use the run and debug in vscode to run Python: Tic Tac Toe
+- click the green run button and download as zip
+- extract it and run the exe file in the dist folder
+- Idea to implement later: ai
